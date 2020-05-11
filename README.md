@@ -28,6 +28,8 @@ implementing hook_robotstxt(). See [robotstxt.api.php](https://git.drupalcode.or
  * To submit bug reports and feature suggestions, or track changes:
    https://www.drupal.org/project/issues/robotstxt
 
+ * To contribute, see the CONTRIBUTING.md file included within this module.
+
 
 REQUIREMENTS
 ------------
